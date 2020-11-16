@@ -16,3 +16,10 @@ def subtract(a,b):
 
 if __name__ == '__main__':
     print(subtract(2,2))
+
+
+def multiply(a,b):
+    return a * b
+
+if __name__ == '__main__':
+    print(multiply(2,2))
